@@ -13,9 +13,15 @@ function About() {
         Our team of experts is dedicated to ensuring your satisfaction. We believe in the power of
         collaboration and innovation to drive progress and achieve great results.
       </p>
+      <img
+        src="https://via.placeholder.com/800x400"
+        alt="About Us"
+        className="about-us-image"
+      />
     </div>
   );
 }
 
 export default About;
+
 
